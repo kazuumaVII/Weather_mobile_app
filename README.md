@@ -33,7 +33,7 @@ I realized it in parallel with my final project of my school on my free time
 
 
 ## Mandatory  🌐
-I also had to use redux toolkit for the first time to manage my component states as well as Firebase to be able to store and sync my data
+I also had to use [redux toolkit](https://redux-toolkit.js.org/) for the first time to manage my component states as well as [Firebase](https://firebase.google.com/) to be able to store and sync my data
 
 
 ## Builtins implemented  🔨
