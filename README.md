@@ -9,7 +9,6 @@
 This is my first project in react native. The goal was to create a weather application that looks like Apple's in addition to adding a cursor that will take into account the time of day to display weather information like on google.
 I realized it in parallel with my final project of my school on my free time
 
-I also had to use redux toolkit for the first time to manage my component states as well as Firebase to be able to store and sync my data
 
 <div align="center">
   <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> 
@@ -17,13 +16,15 @@ I also had to use redux toolkit for the first time to manage my component states
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" />
   <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" /> 
 </div>
+
+
 ## Installation & Usage ❕
 
 
 
 
 ## Mandatory  🌐
-
+I also had to use redux toolkit for the first time to manage my component states as well as Firebase to be able to store and sync my data
 
 
 ## Builtins implemented  🔨
