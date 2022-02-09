@@ -1,5 +1,8 @@
 # Weather_mobile_app
-![Enregistrement de l’écran 2022-02-09 à 14 37 35](https://user-images.githubusercontent.com/43440614/153228047-3d5a20de-cd2a-48bb-bd9b-4b2b0e3e2f13.gif)
+
+<div align="center">
+<img align="center" src='https://user-images.githubusercontent.com/43440614/153228047-3d5a20de-cd2a-48bb-bd9b-4b2b0e3e2f13.gif' /> 
+</div>
 
 
 ## Introduction 🤔
