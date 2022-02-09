@@ -11,8 +11,12 @@ I realized it in parallel with my final project of my school on my free time
 
 I also had to use redux toolkit for the first time to manage my component states as well as Firebase to be able to store and sync my data
 
-
-
+<div align="center">
+  <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> 
+  <img  src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase=white" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" />
+  <img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" /> 
+</div>
 ## Installation & Usage ❕
 
 
