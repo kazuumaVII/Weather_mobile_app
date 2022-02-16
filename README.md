@@ -38,6 +38,21 @@ I also had to use [redux toolkit](https://redux-toolkit.js.org/) for the first t
 
 ## Builtins implemented  🔨
 
+1. Install FireBase : https://firebase.google.com/ 
+
+2. `cd config`  and  edit file `fireBase.js`
+ 
+        const firebaseConfig = {
+        apiKey: "API KEY",
+        authDomain: "AUTH DOMAIN",
+        projectId: "PROJECT ID",
+        storageBucket: "STORAGE BUCKET",
+        messagingSenderId: "MESSAGIN SENDER ID",
+        appId: "APP ID",
+        measurementId: "MEASUREMENT ID",
+        };
+
+
 
 
 
