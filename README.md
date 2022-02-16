@@ -20,13 +20,15 @@ I realized it in parallel with my final project of my school on my free time
 
 ## Installation & Usage ❕
 
+1. Download and install Expo : https://reactnative.dev/docs/environment-setup
+
 
 1. Download/Clone this repo
 
         git clone https://github.com/kazuumaVII/Weather_mobile_app.git
 2. `cd` into the root directory and run `yarn start`
 
-        cd Weather_mobile
+        cd Weather_mobile_app
         yarn start
 
 3. After building the source `./test` from the project root.
