@@ -35,6 +35,10 @@ I realized it in parallel with my final project of my school on my free time
 ## Mandatory  🌐
 I also had to use [redux toolkit](https://redux-toolkit.js.org/) for the first time to manage my component states as well as [Firebase](https://firebase.google.com/) to be able to store and sync my data
 
+The problem I encountered was to find an api which could give me the location of a city with the longitude and the attitude but which also allows me to find the location with the name of the city.
+
+For this I had to use 2 different APIs but the problem was that the location with the name of a city was not precise enough.
+
 
 ## Builtins implemented  🔨
 
